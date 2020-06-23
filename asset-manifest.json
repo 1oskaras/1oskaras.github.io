@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63204671.chunk.css",
+    "main.js": "/static/js/main.27dcd148.chunk.js",
+    "main.js.map": "/static/js/main.27dcd148.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.49765642.js",
+    "runtime-main.js.map": "/static/js/runtime-main.49765642.js.map",
+    "static/js/2.147b0b1e.chunk.js": "/static/js/2.147b0b1e.chunk.js",
+    "static/js/2.147b0b1e.chunk.js.map": "/static/js/2.147b0b1e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6a11d778acd589db3d5e16a1a2447419.js": "/precache-manifest.6a11d778acd589db3d5e16a1a2447419.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.63204671.chunk.css.map": "/static/css/main.63204671.chunk.css.map",
+    "static/js/2.147b0b1e.chunk.js.LICENSE.txt": "/static/js/2.147b0b1e.chunk.js.LICENSE.txt",
+    "static/media/WPf.png": "/static/media/WPf.7e26ccad.png",
+    "static/media/bg-un.png": "/static/media/bg-un.2168987a.png",
+    "static/media/now-ui-kit.scss?v=1.4.0": "/static/media/nucleo-outline.8ebec31f.woff2",
+    "static/media/oskaras.jpg": "/static/media/oskaras.be6247cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49765642.js",
+    "static/js/2.147b0b1e.chunk.js",
+    "static/css/main.63204671.chunk.css",
+    "static/js/main.27dcd148.chunk.js"
+  ]
+}
